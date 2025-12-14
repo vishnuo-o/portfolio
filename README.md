@@ -1,5 +1,7 @@
 # Vishnupriyan - iOS Engineer Portfolio
 
+https://github.com/vishnuo-o
+
 A minimal, Apple-inspired portfolio website showcasing iOS development work and experience.
 
 ## Features
